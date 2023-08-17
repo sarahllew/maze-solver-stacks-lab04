@@ -1,4 +1,4 @@
-#Solving Maze with Stacks
+Solving Maze with Stacks
 - using a Python Stack data structure with lists
 - given certain positions (x,y) coordinates, the stack data structure keeps track of all coordinates
 - manually keeps track of positions
