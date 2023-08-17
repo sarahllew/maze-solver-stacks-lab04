@@ -1,4 +1,4 @@
-**Maze Traversal Program with Stacks**
+# Maze Traversal Program with Stacks
 
 - using a Python Stack data structure with lists
 - given certain positions (x,y) coordinates, the stack data structure keeps track of all coordinates
